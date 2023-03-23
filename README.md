@@ -1,4 +1,4 @@
-# R_shainer_et_al_2022-
+# R_shainer_et_al_2022
 ## "Biglycan regulates bone development and regeneration" 
 code for single cell sequencing analysis of Bgn KO vs. WT mice, as described in:
 
